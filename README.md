@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: muhammadzainchaudhary15@gmail.com
-- ⚡ Fun fact: I'm comming to teen
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
   
