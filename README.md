@@ -23,8 +23,6 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,&perline=5)](https://skillicons.dev)
 
-![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadZaynCh&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZaynCh&theme=dark)
 
 
@@ -33,4 +31,5 @@
 <!---
 MuhammadZaynCh/MuhammadZaynCh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadZaynCh&show_icons=true&theme=dark)
 --->
